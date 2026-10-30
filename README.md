@@ -1,3 +1,6 @@
+# O meu primeiro projeto
+Este repositório foi criado no âmbito da disciplina de PSI.
+
 ## Autor
 - Nome: (Mariz)
 - Turma: 11.º H, turno (2)
